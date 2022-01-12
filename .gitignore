@@ -1,0 +1,13 @@
+Debug/
+Release/
+.settings/
+Drivers/
+Middlewares/
+*.ioc
+*.launch
+*.mxproject
+*.project
+*.cproject
+*.ld
+*.project
+*.code_review_properties
